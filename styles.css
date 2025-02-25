@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #426d93;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    color: #426d93;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+}
+
+.date {
+    color: rgb(125, 52, 64);
+    font-weight: bold;
+}
+
+.training {
+    font-weight: bold;
+}
+
+.awards {
+    font-weight: bold;
+}
+
+#email {
+    font-size: 14px;
+}
+
+.myimage {
+    width: 250px;  
+    height: auto;
+    display: block;
+    margin: 0 auto; 
+    border-radius: 50%;
+}
+
+.button-highlight {
+    background-color: #426d93;
+    color: white;
+}
+
+#contactInfo {
+    text-align: center;
+    display: none;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#toggleContactBtn {
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    background-color: #426d93;
+}
+
+ul {
+    text-align: center;
+    font-size: 14px;
+    list-style-position: inside;
+}
